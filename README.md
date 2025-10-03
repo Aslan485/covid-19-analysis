@@ -33,10 +33,10 @@ This analysis examines COVID-19 data across 200+ countries to identify:
 git clone https://github.com/Aslan485/covid-19-analysis.git
 cd covid-19-analysis
 pip install -r requirements.txt
-## Usage
+### Usage
 bash
 python covid_analysis.py
-##📈 Analysis Features
+### 📈 Analysis Features
 SQL-Based Analytics
 Country-level impact ranking and comparison
 
@@ -131,4 +131,5 @@ SQLite Documentation
 
 📞 Support
 For questions about this analysis or dataset, please open an issue on GitHub.
+
 
